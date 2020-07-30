@@ -1,3 +1,6 @@
+#### 진행중 (스도쿠 문제) ####
+
+
 import sys
 
 sys.stdin = open('input_data/1974.txt',"r")
