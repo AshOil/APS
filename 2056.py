@@ -1,7 +1,5 @@
 import sys
-
 sys.stdin = open('input_data/2056.txt')
-
 
 def check_month(month):
     if 0 <int(month) < 13:
@@ -17,10 +15,13 @@ def check_day(month, day):
         '09':30, '10':31,
         '11':30, '12':31
         }
-    if 0 < int(day) < 32:
-        if int(day) <= day_dict.get(month):
-            return day 
+    
+    if not day_dict.get(month):
         return ''
+
+    if 0 < int(day) <= day_dict.get(month):
+            return day 
+    return ''
 
 # '5' ==> 5
 T = int(input())
