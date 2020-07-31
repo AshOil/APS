@@ -5,16 +5,6 @@ T = int(input())
 numbers = list(range(1,T+1))
 str_numbers = list(map(str, numbers))
 
-
-# for number in str_numbers:
-#     if '3' in number:
-#         str_numbers[int(number)-1] = '-'
-#     if '6' in number:
-#         str_numbers[int(number)-1] = '-'
-#     if '9' in number:
-#         str_numbers[int(number)-1] = '-'
-# print(str_numbers)
-
 for number in str_numbers:
     count = 0
     for num in number:  
