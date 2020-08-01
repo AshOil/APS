@@ -1,5 +1,3 @@
-
-
 import sys
 sys.stdin = open('input_data/1966.txt',"r")
 
