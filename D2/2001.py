@@ -1,6 +1,3 @@
-### 진행중 ###
-
-
 import sys
 sys.stdin = open('input_data/2001.txt',"r")
 

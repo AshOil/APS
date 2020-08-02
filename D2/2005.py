@@ -1,13 +1,10 @@
-### 질문해볼것!! 맞는데!!  ㅠㅠ ###
-
-
 import sys
 sys.stdin = open('input_data/2005.txt',"r")
 
 T = int(input())
 
 for t in range(1, T+1):
-    print('# {}'.format(t))
+    print('#{}'.format(t))
     length = int(input())
     num_list = []
     for num in range(1,length+1):
