@@ -8,6 +8,7 @@ for t in range(1, T+1):
     turn = int(input())
     for _ in range(turn):
         numbers = list(map(int, input() .split()))
+        print(len(numbers))
 
         if len(numbers) > 1:
             way, speed = numbers
