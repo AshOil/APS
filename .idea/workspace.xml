@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4324b383-fa25-4295-b33f-e50659bb9097" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/APS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2/2001.py" beforeDir="false" afterPath="$PROJECT_DIR$/D2/2001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/.idea/D3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/D3/.idea/D3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/D3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/D3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/4698.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3/4698.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/5356.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3/5356.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/5688.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3/5688.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/5986.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3/5986.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/D3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIST 1/4834.py" beforeDir="false" afterPath="$PROJECT_DIR$/LIST 1/4834.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIST 1/4835.py" beforeDir="false" afterPath="$PROJECT_DIR$/LIST 1/4835.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,14 +33,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="501" />
-    <option name="y" value="25" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1ffG3uEyXadUObkWgzsFofa60nR" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -34,10 +42,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.5431">
-    <configuration name="1206" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.4406">
+    <configuration name="4406" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +58,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/1206.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/4406.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4466" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/4466.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4837" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LIST 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIST 2/4837.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,62 +151,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5688" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/5688.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5948" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/5948.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.5948" />
-      <item itemvalue="Python.1206" />
-      <item itemvalue="Python.5688" />
       <item itemvalue="Python.5549" />
       <item itemvalue="Python.5431" />
+      <item itemvalue="Python.4837" />
+      <item itemvalue="Python.4466" />
+      <item itemvalue="Python.4406" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4406" />
+        <item itemvalue="Python.4466" />
+        <item itemvalue="Python.4837" />
         <item itemvalue="Python.5431" />
         <item itemvalue="Python.5549" />
-        <item itemvalue="Python.5688" />
-        <item itemvalue="Python.1206" />
-        <item itemvalue="Python.5948" />
       </list>
     </recent_temporary>
   </component>
@@ -173,23 +182,38 @@
     </task>
     <servers />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="265" key="GridCell.Tab.0.bottom" timestamp="1596601885208">
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1596673111433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596673111433" />
+    <state width="935" height="279" key="GridCell.Tab.0.bottom" timestamp="1596704153879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1362" height="265" key="GridCell.Tab.0.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596601885208" />
-    <state width="1362" height="265" key="GridCell.Tab.0.center" timestamp="1596601885208">
+    <state width="935" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596704153879" />
+    <state width="935" height="279" key="GridCell.Tab.0.center" timestamp="1596704153879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1362" height="265" key="GridCell.Tab.0.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596601885208" />
-    <state width="1362" height="265" key="GridCell.Tab.0.left" timestamp="1596601885208">
+    <state width="935" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596704153879" />
+    <state width="935" height="279" key="GridCell.Tab.0.left" timestamp="1596704153879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1362" height="265" key="GridCell.Tab.0.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596601885208" />
-    <state width="1362" height="265" key="GridCell.Tab.0.right" timestamp="1596601885208">
+    <state width="935" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596704153879" />
+    <state width="935" height="279" key="GridCell.Tab.0.right" timestamp="1596704153879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1362" height="265" key="GridCell.Tab.0.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596601885208" />
+    <state width="935" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596704153879" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1596673801866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596673801866" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

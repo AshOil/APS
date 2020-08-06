@@ -1,29 +1,27 @@
 import sys
 sys.stdin = open('input_data/5986.txt',"r")
 
-prime_list = [2]
-for number in range(3,1000):
-    prime_num = True
-    for num in range(2,number):
-        if not number%num:
-            prime_num = False
-            break
-    if prime_num:
-        prime_list.append(number)
+def PrimeSearch(num):
+    a = set([i for i in range(3, num, 2)])
+    for i in range(3, num+1, 2):
+        if i in a:
+            a -= set([i for i in range(i*2, num+1, i)])
+    a.add(2)
+    return a
 
 T = int(input())
 for t in range(1, T+1):
     number = int(input())
-    my_prime = []
-    for num in prime_list:
-        if num < number:
-            my_prime.append(num)
-    length = len(my_prime)
+    # 소수 갯수 구하기
+    prime_list = PrimeSearch(number)
+    print(prime_list)
+    # 3개로 이루어진 집합 구하기
     sumlist = []
-    for i in my_prime:
-        for j in my_prime:
-            for k in my_prime:
+    for i in prime_list:
+        for j in prime_list:
+            for k in prime_list:
                 sumlist.append(sorted([i,j,k]))
+    # 중복 제거하기
     new_sumlist = []
     for sums in sumlist:
         if not sums in new_sumlist:

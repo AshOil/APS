@@ -19,6 +19,9 @@ for t in range(1, T+1):
         if num < min_num:
             min_num = num
     print('#{} {}'.format(t, max_num - min_num))
+
+
+
         
 
 
