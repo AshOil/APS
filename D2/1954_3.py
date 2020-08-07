@@ -31,6 +31,6 @@ for t in range(1, T+1):
 
     print('#{}'.format(t))
     for van in vacancy:
-        print(' '.join(map(str, van)))
+        print(*van)
 
 
