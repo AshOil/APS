@@ -3,74 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4324b383-fa25-4295-b33f-e50659bb9097" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/1545.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/1933.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/1936.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/1938.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2019.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2027.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2029.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2043.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2046.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2047.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2050.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2056.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2058.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2063.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2068.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2070.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2071.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1/2072.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1204.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1284.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1288.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1859.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1859_practice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1859_sample.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1926.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1940.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1945.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1946.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1948.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1954.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1954_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1954_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1959.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1961.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1966.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1970.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1974.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1976.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1979.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1983.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1984.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1986.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/1989.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/2001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/2005.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2/2007.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/10059.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/1206.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/1208.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/1209.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/4406.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/4466.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/4698.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5162.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5356.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5431.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5549.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5603.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5642.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5688.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5789.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5948.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/5986.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/6190.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/8016.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/9940.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/1258.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,8 +37,8 @@
       <recent name="C:\Users\deckl\Desktop\HOMEWORK\0807\input_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9940">
-    <configuration name="10059" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6692_다솔이의 월급 상자">
+    <configuration name="10200_구독자 전쟁" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +50,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/10059.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/10200_구독자 전쟁.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +59,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2804_크로스워드 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6692_다솔이의 월급 상자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/2804_크로스워드 만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/6692_다솔이의 월급 상자.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,19 +144,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2804_크로스워드 만들기" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.10059" />
       <item itemvalue="Python.9940" />
       <item itemvalue="Python.8016" />
+      <item itemvalue="Python.10200_구독자 전쟁" />
+      <item itemvalue="Python.6692_다솔이의 월급 상자" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6692_다솔이의 월급 상자" />
+        <item itemvalue="Python.10200_구독자 전쟁" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.9940" />
         <item itemvalue="Python.8016" />
-        <item itemvalue="Python.10059" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.2804_크로스워드 만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -246,50 +179,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596673111433" />
-    <state width="999" height="277" key="GridCell.Tab.0.bottom" timestamp="1596897596201">
-      <screen x="-1920" y="-113" width="1536" height="832" />
+    <state width="996" height="235" key="GridCell.Tab.0.bottom" timestamp="1597035980086">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="999" height="277" key="GridCell.Tab.0.bottom/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
-    <state width="934" height="277" key="GridCell.Tab.0.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596877571038" />
+    <state width="996" height="235" key="GridCell.Tab.0.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597035980086" />
     <state width="935" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596704153879" />
-    <state width="999" height="277" key="GridCell.Tab.0.center" timestamp="1596897596201">
-      <screen x="-1920" y="-113" width="1536" height="832" />
+    <state width="996" height="235" key="GridCell.Tab.0.center" timestamp="1597035980086">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="999" height="277" key="GridCell.Tab.0.center/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
-    <state width="934" height="277" key="GridCell.Tab.0.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596877571038" />
+    <state width="996" height="235" key="GridCell.Tab.0.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597035980086" />
     <state width="935" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596704153879" />
-    <state width="999" height="277" key="GridCell.Tab.0.left" timestamp="1596897596201">
-      <screen x="-1920" y="-113" width="1536" height="832" />
+    <state width="996" height="235" key="GridCell.Tab.0.left" timestamp="1597035980086">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="999" height="277" key="GridCell.Tab.0.left/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
-    <state width="934" height="277" key="GridCell.Tab.0.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596877571038" />
+    <state width="996" height="235" key="GridCell.Tab.0.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597035980086" />
     <state width="935" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596704153879" />
-    <state width="999" height="277" key="GridCell.Tab.0.right" timestamp="1596897596201">
-      <screen x="-1920" y="-113" width="1536" height="832" />
+    <state width="996" height="235" key="GridCell.Tab.0.right" timestamp="1597035980086">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="999" height="277" key="GridCell.Tab.0.right/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
-    <state width="934" height="277" key="GridCell.Tab.0.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596877571038" />
+    <state width="996" height="235" key="GridCell.Tab.0.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597035980086" />
     <state width="935" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596704153879" />
-    <state width="1367" height="346" key="GridCell.Tab.1.bottom" timestamp="1596817356277">
+    <state width="998" height="260" key="GridCell.Tab.1.bottom" timestamp="1596975686708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1367" height="346" key="GridCell.Tab.1.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596817356277" />
-    <state width="1367" height="346" key="GridCell.Tab.1.center" timestamp="1596817356277">
+    <state width="998" height="260" key="GridCell.Tab.1.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596975686708" />
+    <state width="998" height="260" key="GridCell.Tab.1.center" timestamp="1596975686708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1367" height="346" key="GridCell.Tab.1.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596817356277" />
-    <state width="1367" height="346" key="GridCell.Tab.1.left" timestamp="1596817356277">
+    <state width="998" height="260" key="GridCell.Tab.1.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596975686708" />
+    <state width="998" height="260" key="GridCell.Tab.1.left" timestamp="1596975686708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1367" height="346" key="GridCell.Tab.1.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596817356277" />
-    <state width="1367" height="346" key="GridCell.Tab.1.right" timestamp="1596817356277">
+    <state width="998" height="260" key="GridCell.Tab.1.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596975686708" />
+    <state width="998" height="260" key="GridCell.Tab.1.right" timestamp="1596975686708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1367" height="346" key="GridCell.Tab.1.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596817356277" />
+    <state width="998" height="260" key="GridCell.Tab.1.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596975686708" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1596724297846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596724297846" />
+    <state x="1084" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596973819128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1084" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596973819128" />
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1596724294219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -313,6 +250,11 @@
           <url>file://$PROJECT_DIR$/Baekjoon/2804_크로스워드 만들기.py</url>
           <line>4</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/D3/10200_구독자 전쟁.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
