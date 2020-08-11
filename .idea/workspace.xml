@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4324b383-fa25-4295-b33f-e50659bb9097" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/3750_Digit sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3/3750_Digit sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,15 +29,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HOMEWORK/0807/input_data" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/D3" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\deckl\Desktop\APS\D3" />
       <recent name="C:\Users\deckl\Desktop\HOMEWORK\0807\input_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3750_Digit sum">
+  <component name="RunManager" selected="Python.1244_최대상금">
     <configuration name="10200_구독자 전쟁" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,6 +52,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/10200_구독자 전쟁.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1244_최대상금" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/1244_최대상금.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,27 +123,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9940" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/9940.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,18 +146,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.9940" />
       <item itemvalue="Python.10200_구독자 전쟁" />
       <item itemvalue="Python.6692_다솔이의 월급 상자" />
       <item itemvalue="Python.3750_Digit sum" />
+      <item itemvalue="Python.1244_최대상금" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1244_최대상금" />
         <item itemvalue="Python.3750_Digit sum" />
         <item itemvalue="Python.6692_다솔이의 월급 상자" />
         <item itemvalue="Python.10200_구독자 전쟁" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.9940" />
       </list>
     </recent_temporary>
   </component>
@@ -178,54 +180,63 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596673111433" />
-    <state width="935" height="344" key="GridCell.Tab.0.bottom" timestamp="1597131260717">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1010" height="259" key="GridCell.Tab.0.bottom" timestamp="1597153841661">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="999" height="277" key="GridCell.Tab.0.bottom/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
     <state width="996" height="235" key="GridCell.Tab.0.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597035980086" />
+    <state width="1010" height="259" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597153841661" />
     <state width="935" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="935" height="344" key="GridCell.Tab.0.center" timestamp="1597131260717">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1010" height="259" key="GridCell.Tab.0.center" timestamp="1597153841661">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="999" height="277" key="GridCell.Tab.0.center/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
     <state width="996" height="235" key="GridCell.Tab.0.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597035980086" />
+    <state width="1010" height="259" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597153841661" />
     <state width="935" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="935" height="344" key="GridCell.Tab.0.left" timestamp="1597131260717">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1010" height="259" key="GridCell.Tab.0.left" timestamp="1597153841661">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="999" height="277" key="GridCell.Tab.0.left/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
     <state width="996" height="235" key="GridCell.Tab.0.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597035980086" />
+    <state width="1010" height="259" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597153841661" />
     <state width="935" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="935" height="344" key="GridCell.Tab.0.right" timestamp="1597131260717">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1010" height="259" key="GridCell.Tab.0.right" timestamp="1597153841661">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="999" height="277" key="GridCell.Tab.0.right/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
     <state width="996" height="235" key="GridCell.Tab.0.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597035980086" />
+    <state width="1010" height="259" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597153841661" />
     <state width="935" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="935" height="344" key="GridCell.Tab.1.bottom" timestamp="1597131260717">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1010" height="259" key="GridCell.Tab.1.bottom" timestamp="1597153841662">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="998" height="260" key="GridCell.Tab.1.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596975686708" />
+    <state width="1010" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597153841662" />
     <state width="935" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="935" height="344" key="GridCell.Tab.1.center" timestamp="1597131260717">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1010" height="259" key="GridCell.Tab.1.center" timestamp="1597153841661">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="998" height="260" key="GridCell.Tab.1.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596975686708" />
+    <state width="1010" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597153841661" />
     <state width="935" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="935" height="344" key="GridCell.Tab.1.left" timestamp="1597131260717">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1010" height="259" key="GridCell.Tab.1.left" timestamp="1597153841661">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="998" height="260" key="GridCell.Tab.1.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596975686708" />
+    <state width="1010" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597153841661" />
     <state width="935" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="935" height="344" key="GridCell.Tab.1.right" timestamp="1597131260717">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1010" height="259" key="GridCell.Tab.1.right" timestamp="1597153841662">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="998" height="260" key="GridCell.Tab.1.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596975686708" />
+    <state width="1010" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597153841662" />
     <state width="935" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1596724297846">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="369" y="113" key="SettingsEditor" timestamp="1597145204429">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="461" y="164" key="SettingsEditor/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596724297846" />
+    <state x="369" y="113" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597145204429" />
     <state x="1084" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596973819128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -263,6 +274,11 @@
           <url>file://$PROJECT_DIR$/D3/3750_Digit sum.py</url>
           <line>3</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/D3/1244_최대상금.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
