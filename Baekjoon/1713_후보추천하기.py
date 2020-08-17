@@ -18,6 +18,6 @@ for idx, vote in enumerate(vote_list):
             vacancy[2] = idx
             break
         else:
-
+            pass
 
 print(final_nominate)
