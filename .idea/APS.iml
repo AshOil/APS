@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Homework" />
     <orderEntry type="module" module-name="0824" />
+    <orderEntry type="module" module-name="쓰떠디" />
+    <orderEntry type="module" module-name="TIL" />
   </component>
 </module>

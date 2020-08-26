@@ -21,4 +21,5 @@ while max(catch) < max_catch:
     elif ball_here < 0:
         ball_here += friends
     catch[ball_here] +=1
+
 print(result)
