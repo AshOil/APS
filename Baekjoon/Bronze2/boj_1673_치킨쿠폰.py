@@ -1,3 +1,7 @@
+# 왜 안되지 ㅠㅠㅠ
+# 예제는 모두 맞는데
+
+
 import sys
 sys.stdin= open("input_data/1673.txt",'r')
 
