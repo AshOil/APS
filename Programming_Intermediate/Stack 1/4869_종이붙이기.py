@@ -13,4 +13,3 @@ for t in range(1, T+1):
         for _ in range(number // 20 - 1):
             result = result* 4 -1
     print('#{} {}'.format(t, result))
-
