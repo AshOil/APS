@@ -38,7 +38,7 @@ for _ in range(10):
         if min_move >= result[0]:
             min_move = result[0]
             answer = result[1]
-
+    print(results)
     print('#{} {}'.format(test_num,answer))
 
 
