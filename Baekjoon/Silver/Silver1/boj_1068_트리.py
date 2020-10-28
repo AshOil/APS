@@ -18,23 +18,9 @@ def CountCheck(num):
 dot = int(input())
 numbers = list(map(int, input().split()))
 target = int(input())
-
-tree = [[0]*3 for i in range(dot)]
+tree = [[] for _ in range(dot+1)]
 for idx, num in enumerate(numbers):
-    print(idx)
-    if num == -1:
-        start = idx
-        continue
-    if tree[num][0]:
-        tree[num][1] = idx
-    else:
-        tree[num][0] = idx
-    tree[idx][2] = num
+    tree[num].append(idx)
 print(tree)
-count = []
-CountCheck(start)
-print(len(count))
-
-
 
 

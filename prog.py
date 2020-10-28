@@ -1,15 +1,20 @@
-from itertools import product
+arr = [69, 10, 30, 2, 16, 8, 31, 22, 30, 2, 5]
+N = len(arr)
 
-my_num = [1, 2, 4]
+def getMin(s,e):
+    if s == e:
+        return s
+    else:
+        ret = getMin(s, e-1)
+        return ret if arr[ret] < arr[e] else e
 
-number = 10
+def selectionSort(s,e):
+    if s == e: return
+    idx = getMin(s, e)
+    arr[s], arr[idx] = arr[idx], arr[s]
+    selectionSort(s+1, e)
 
-for i in range(1, 10000):
-    if 3**(i-1) < number <= 3**i:
-        break
-print(i)
-number = number - 3**(i-1)
-check_list = []
-for j in product([1, 2, 4], repeat=i):
-    check_list.append(i)
-print(check_list)
+
+getMin(0,N-1)
+selectionSort(0, N-1)
+print(arr)
