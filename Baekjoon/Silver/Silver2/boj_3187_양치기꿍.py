@@ -19,9 +19,7 @@ def DFS(x, y):
 
 height, width = map(int, input().split())
 ground = [list(' '.join(input()).split()) for _ in range(height)]
-print(ground)
 visit = [[0] * width for _ in range(height)]
-print(visit)
 total_wolf = 0
 total_sheep = 0
 for i in range(height):

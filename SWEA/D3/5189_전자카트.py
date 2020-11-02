@@ -12,11 +12,15 @@ for t in range(1, int(input()) + 1):
         stage = 0
         before = 0
         for now in course:
+            print(ground[before][now])
             total += ground[before][now]
             before = now
             if total > min_battery:
                 break
         total += ground[before][0]
+        print(ground[before][0])
+        print(total)
+        print(course)
         if total < min_battery:
             min_battery = total
     print('#{} {}'.format(t, min_battery))

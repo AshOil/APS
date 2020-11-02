@@ -1,5 +1,4 @@
 import sys; sys.stdin = open('input_data/5202.txt')
-
 for t in range(1, int(input()) + 1):
     fedex_num = int(input())
     fedex = [list(map(int, input().split())) for _ in range(fedex_num)]
