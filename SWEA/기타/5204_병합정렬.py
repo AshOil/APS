@@ -1,8 +1,3 @@
-# import sys; sys.stdin = open('input_data/5204.txt')
-#
-# for t in range(1, int(input()) + 1):
-#
-
 
 arr = [69, 10, 30, 2, 16, 8, 31, 22]
 # 병합 작업

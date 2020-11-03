@@ -9,9 +9,9 @@ for t in range(1,T+1):
     can_list = []
     can_list.append(list(num_list))
     while turn:
-        num_list = list(can_list)
+        number_list = list(can_list)
         can_list.clear()
-        for data in num_list:
+        for data in number_list:
             for i in range(length-1):
                 for j in range(i+1, length):
                     data[i], data[j] = data[j], data[i]
@@ -19,6 +19,7 @@ for t in range(1,T+1):
                         can_list.append(list(data))
                     data[i], data[j] = data[j], data[i]
         turn -= 1
+    print(can_list)
     print('#{} {}'.format(t, ''.join(map(str, max(can_list)))))
 
 
