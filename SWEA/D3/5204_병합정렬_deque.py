@@ -1,5 +1,3 @@
-# TODO 런타임 9/10 한개만 오류나
-
 import sys; sys.stdin = open('input_data/5204.txt')
 from collections import deque
 

@@ -1,26 +1,26 @@
-#TODO 11/04 시간초과
+#TODO 11/04 BFS로 수술중 그만둠
 
 import sys; sys.stdin = open('input_data/5247.txt')
-
-def calcul(number, count):
-    global min_count
-    if number <= 0 or number > 2 * target or count > min_count: return
-    if number == target:
-        if count < min_count:
-            min_count = count
-            return
-    calcul(number*2, count + 1)
-    calcul(number+1, count + 1)
-    calcul(number-10, count + 1)
-    calcul(number-1, count + 1)
-
-
+from collections import deque
 
 for t in range(1, int(input()) + 1):
     number, target = map(int, input().split())
-    for i in range(1, 100):
-        if number * (2**i) > target:
-            min_count = i + (number * (2**i))-target
-            break
-    calcul(number, 0)
-    print('#{} {}'.format(t, min_count))
+    turn_check = [1] * (target*2+1)
+    Q = deque()
+    Q.append(number)
+    result = []
+    while Q:
+        number = Q.popleft()
+        if number == target:
+            result.append(turn_check[number])
+            continue
+        next_list = [number*2, number+1, number-1, number-10]
+        for next in next_list:
+            if next <= 0 or next > target * 2:
+                break
+            if turn_check[number] = turn_check[next]:
+                turn_check[next] = turn_check[number] + 1
+            Q.append(next)
+
+
+    print('#{} {}'.format(t, result))
