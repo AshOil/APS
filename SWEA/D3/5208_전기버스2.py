@@ -9,8 +9,6 @@ def findBattery(i, count):
     for j in range(i+1, i + battery[i] + 1):
         findBattery(j, count + 1)
 
-
-
 for t in range(1, int(input()) + 1):
     battery = list(map(int,input().split()))
     end = battery.pop(0) - 1

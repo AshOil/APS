@@ -3,7 +3,7 @@ import sys; sys.stdin = open('input_data/5209.txt')
 def doWork(i,fact, total):
     global min_cost
     visit[i] = 1
-    if total +  ground[fact][i] >= min_cost:
+    if total + ground[fact][i] >= min_cost:
         return
     if fact == size - 1:
         total += ground[fact][i]
