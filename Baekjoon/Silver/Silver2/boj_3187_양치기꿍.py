@@ -8,7 +8,7 @@ def DFS(x, y):
     global sheep
     if ground[x][y] == 'v':
         wolf += 1
-    elif ground[x][y] =='k':
+    elif ground[x][y] =='o':
         sheep += 1
     visit[x][y] = 1
     for i in range(4):

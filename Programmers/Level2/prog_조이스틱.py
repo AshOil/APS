@@ -1,4 +1,4 @@
-# TODO 방향전환
+# TODO 방향전환 1105 스터디
 
 name = 'ABAAAAAAAAABB'
 

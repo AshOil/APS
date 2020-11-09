@@ -1,36 +1,20 @@
-# TODO
-
 import sys; sys.stdin = open('input_data/1961.txt')
+from copy import deepcopy
 
-T = int(input())
-for t in range(1, T+1):
+for t in range(1, int(input()) + 1):
     print('#{}'.format(t))
     size = int(input())
-    number_list = []
-    for _ in range(size):
-        number_list.append(list(input().split()))
+    ground = [list(map(int, input().split())) for _ in range(size)]
+    new_ground = []
+    result_line = [[] for _ in range(size)]
     for _ in range(3):
-        number_list = list(map(list, zip(number_list[0], number_list[1], number_list[2])))
-        for num in number_list:
-            num.reverse()
-        print(''.join(number_list[0]), end=' ')
-    print()
-    number_list = list(map(list, zip(number_list[0], number_list[1], number_list[2])))
-    for _ in range(3):
-        number_list = list(map(list, zip(number_list[0], number_list[1], number_list[2])))
-        for num in number_list:
-            num.reverse()
-        print(''.join(number_list[1]), end=' ')
-    print()
-    number_list = list(map(list, zip(number_list[0], number_list[1], number_list[2])))
-    for _ in range(3):
-        number_list = list(map(list, zip(number_list[0], number_list[1], number_list[2])))
-        for num in number_list:
-            num.reverse()
-        print(''.join(number_list[2]), end=' ')
-    print()
-
-
-
+        for idx, i in enumerate(range(size-1, -1, -1)):
+            line = list(list(zip(*ground))[i])
+            result_line[idx].insert(0, ''.join(map(str, line)))
+            new_ground.append(line)
+        ground = deepcopy(new_ground)
+        new_ground.clear()
+    for line in result_line:
+        print(*line)
 
 
