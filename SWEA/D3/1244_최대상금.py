@@ -19,7 +19,6 @@ for t in range(1,T+1):
                         can_list.append(list(data))
                     data[i], data[j] = data[j], data[i]
         turn -= 1
-    print(can_list)
     print('#{} {}'.format(t, ''.join(map(str, max(can_list)))))
 
 
