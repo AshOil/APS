@@ -1,3 +1,4 @@
+#TODO 진행중 0105
 import sys; sys.stdin = open('input_data/10761.txt')
 
 for t in range(1, int(input()) + 1):
