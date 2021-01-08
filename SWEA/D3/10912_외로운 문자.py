@@ -13,7 +13,7 @@ for t in range(1, int(input()) + 1):
             rest.append(char)
     if rest:
         rest.sort()
-        print('#{} {}'.format(t, rest))
+        print('#{} {}'.format(t, ''.join(rest)))
     else:
         print('#{} Good'.format(t))
 
