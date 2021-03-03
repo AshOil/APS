@@ -1,313 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4324b383-fa25-4295-b33f-e50659bb9097" name="Default Changelist" comment="">
+    <list default="true" id="d3e7a3fe-0f13-4174-91af-8e1f721cd27f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/APS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/Baekjoon/2615_오목.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/2615_오목.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/D3/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HOMEWORK/0814/homework/0814 HOMEWORK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../HOMEWORK/0814/homework/0814 HOMEWORK.md" afterDir="false" />
-=======
->>>>>>> b305a4e247b69a54abde22e10de1ea030996d37f
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
+  <component name="FUSProjectUsageTrigger">
+    <session id="-956973627">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Baekjoon/Bronze/Bronze1/2851_슈퍼마리오.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="253" />
+    <option name="width" value="1340" />
+    <option name="height" value="830" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APS" type="462c0819:PsiDirectoryNode" />
+              <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APS" type="462c0819:PsiDirectoryNode" />
+              <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="Bronze" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APS" type="462c0819:PsiDirectoryNode" />
+              <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
+              <item name="Bronze" type="462c0819:PsiDirectoryNode" />
+              <item name="Bronze1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <option value="Python Script" />
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Homework" />
-  </component>
-  <component name="ProjectId" id="1ffG3uEyXadUObkWgzsFofa60nR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/D3" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\deckl\Desktop\APS\D3" />
-      <recent name="C:\Users\deckl\Desktop\HOMEWORK\0807\input_data" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.6485_삼성시의 버스 노선">
-    <configuration name="10505_소득불균형" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/10505_소득불균형.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1244_스위치 켜고 끄기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/1244_스위치 켜고 끄기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2615_급돌" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/2615_급돌.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2628_종이자르기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/2628_종이자르기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6485_삼성시의 버스 노선" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/6485_삼성시의 버스 노선.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.2628_종이자르기" />
-      <item itemvalue="Python.1244_스위치 켜고 끄기" />
-      <item itemvalue="Python.2615_급돌" />
-      <item itemvalue="Python.10505_소득불균형" />
-      <item itemvalue="Python.6485_삼성시의 버스 노선" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.6485_삼성시의 버스 노선" />
-        <item itemvalue="Python.10505_소득불균형" />
-        <item itemvalue="Python.2615_급돌" />
-        <item itemvalue="Python.1244_스위치 켜고 끄기" />
-        <item itemvalue="Python.2628_종이자르기" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4324b383-fa25-4295-b33f-e50659bb9097" name="Default Changelist" comment="" />
-      <created>1596523864071</created>
+      <changelist id="d3e7a3fe-0f13-4174-91af-8e1f721cd27f" name="Default Changelist" comment="" />
+      <created>1614737370727</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596523864071</updated>
+      <updated>1614737370727</updated>
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1596673111433">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596673111433" />
-    <state width="1271" height="340" key="GridCell.Tab.0.bottom" timestamp="1597502839555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="999" height="277" key="GridCell.Tab.0.bottom/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
-    <state width="1271" height="340" key="GridCell.Tab.0.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597502839555" />
-    <state width="1011" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597325151096" />
-    <state width="935" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="1271" height="340" key="GridCell.Tab.0.center" timestamp="1597502839555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="999" height="277" key="GridCell.Tab.0.center/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
-    <state width="1271" height="340" key="GridCell.Tab.0.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597502839555" />
-    <state width="1011" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597325151096" />
-    <state width="935" height="344" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="1271" height="340" key="GridCell.Tab.0.left" timestamp="1597502839555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="999" height="277" key="GridCell.Tab.0.left/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
-    <state width="1271" height="340" key="GridCell.Tab.0.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597502839555" />
-    <state width="1011" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597325151096" />
-    <state width="935" height="344" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="1271" height="340" key="GridCell.Tab.0.right" timestamp="1597502839555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="999" height="277" key="GridCell.Tab.0.right/-1920.-113.1536.832/0.0.1920.1040@-1920.-113.1536.832" timestamp="1596897596201" />
-    <state width="1271" height="340" key="GridCell.Tab.0.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597502839555" />
-    <state width="1011" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597325151096" />
-    <state width="935" height="344" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="1271" height="340" key="GridCell.Tab.1.bottom" timestamp="1597502839556">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="340" key="GridCell.Tab.1.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597502839556" />
-    <state width="1010" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597153841662" />
-    <state width="935" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="1271" height="340" key="GridCell.Tab.1.center" timestamp="1597502839555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="340" key="GridCell.Tab.1.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597502839555" />
-    <state width="1010" height="259" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597153841661" />
-    <state width="935" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="1271" height="340" key="GridCell.Tab.1.left" timestamp="1597502839555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="340" key="GridCell.Tab.1.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597502839555" />
-    <state width="1010" height="259" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597153841661" />
-    <state width="935" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state width="1271" height="340" key="GridCell.Tab.1.right" timestamp="1597502839556">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1271" height="340" key="GridCell.Tab.1.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597502839556" />
-    <state width="1010" height="259" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597153841662" />
-    <state width="935" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597131260717" />
-    <state x="369" y="113" key="SettingsEditor" timestamp="1597145204429">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596724297846" />
-    <state x="369" y="113" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597145204429" />
-    <state x="1084" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596973819128">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1084" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596973819128" />
-    <state x="882" y="181" width="672" height="538" key="search.everywhere.popup" timestamp="1597319327830">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1596724294219" />
-    <state x="882" y="181" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1597319327830" />
-    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596673801866" />
+  <component name="ToolWindowManager">
+    <frame x="253" y="0" width="1340" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24961598" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Baekjoon/2851_슈퍼마리오.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Baekjoon/8979_올림픽.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Baekjoon/2804_크로스워드 만들기.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/D3/10200_구독자 전쟁.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/D3/3750_Digit sum.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/D3/1244_최대상금.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Baekjoon/2578_빙고.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Baekjoon/1244_스위치 켜고 끄기.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/D3/6485_삼성시의 버스 노선.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="stations.keys()" language="Python" />
-      </configuration>
-    </watches-manager>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Baekjoon/Bronze/Bronze1/2851_슈퍼마리오.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
