@@ -1,4 +1,3 @@
-#TODO 유클리드호제법?
 
 import sys; sys.stdin = open('input_data/3032.txt')
 

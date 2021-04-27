@@ -1,4 +1,3 @@
-#TODO 30퍼에서 틀림
 
 import sys; sys.stdin = open('input_data/1389.txt')
 from collections import deque

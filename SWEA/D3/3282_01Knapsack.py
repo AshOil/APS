@@ -1,4 +1,4 @@
-#TODO 시간초과 12/18
+
 
 import sys; sys.stdin = open('input_data/3282.txt')
 

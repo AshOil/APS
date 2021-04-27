@@ -1,4 +1,4 @@
-#TODO 생각보다 어렵네 12/20
+
 
 import sys; sys.stdin = open('input_data/5607.txt')
 

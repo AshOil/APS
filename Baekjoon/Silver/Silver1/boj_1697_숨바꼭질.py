@@ -1,4 +1,3 @@
-#TODO 44%에서 틀렸습니다.
 
 import sys; sys.stdin = open('input_data/1697.txt')
 from collections import deque

@@ -1,4 +1,3 @@
-#TODO 1105 스터디
 
 import sys; sys.stdin = open('input_data/2206.txt')
 from collections import deque

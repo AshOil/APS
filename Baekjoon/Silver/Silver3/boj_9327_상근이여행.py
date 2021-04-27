@@ -1,4 +1,3 @@
-#TODO 어려운데?
 
 import sys; sys.stdin = open('input_data/9327.txt')
 from collections import deque

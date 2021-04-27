@@ -1,4 +1,3 @@
-# TODO 개어려운데
 
 import sys; sys.stdin = open('input_data/2251.txt')
 

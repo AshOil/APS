@@ -1,4 +1,3 @@
-# TODO 1217 개안풀리네
 
 import sys; sys.stdin = open('input_data/2806.txt')
 

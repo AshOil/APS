@@ -1,4 +1,4 @@
-#TODO 41/50
+
 
 import sys; sys.stdin = open('input_data/2382.txt')
 

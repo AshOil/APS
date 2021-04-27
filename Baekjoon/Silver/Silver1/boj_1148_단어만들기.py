@@ -1,4 +1,3 @@
-#TODO 하다 말았음
 
 import sys; sys.stdin = open('input_data/1148.txt')
 

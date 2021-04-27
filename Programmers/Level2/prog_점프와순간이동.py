@@ -1,4 +1,3 @@
-# TODO 효율성 실패 (시간초과)
 
 N = 5000
 from collections import deque
