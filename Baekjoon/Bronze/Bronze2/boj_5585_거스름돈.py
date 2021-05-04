@@ -1,5 +1,3 @@
-#TODO 파트 7
-
 import sys; sys.stdin = open('input_data/5585.txt')
 
 money = 1000 - int(input())

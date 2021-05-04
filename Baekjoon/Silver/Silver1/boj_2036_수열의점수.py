@@ -1,5 +1,3 @@
-#TODO 파트7
-
 import sys; sys.stdin = open('input_data/2036.txt')
 size = int(input())
 plus_list = []

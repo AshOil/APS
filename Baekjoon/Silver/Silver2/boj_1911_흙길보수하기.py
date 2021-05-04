@@ -1,5 +1,3 @@
-#TODO 파트7
-
 import sys; sys.stdin = open('input_data/1911.txt')
 
 hole, length = map(int, input().split())

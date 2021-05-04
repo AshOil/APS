@@ -1,5 +1,3 @@
-#TODO 파트 7
-
 import sys; sys.stdin = open('input_data/2141.txt')
 town = int(input())
 town_list = []

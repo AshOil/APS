@@ -1,4 +1,3 @@
-#TODO 파트7
 import sys; sys.stdin = open('input_data/2012.txt')
 
 num = int(input())
