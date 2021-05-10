@@ -1,7 +1,4 @@
-#TODO 높이 잘 조져보면 될듯?!!?
-
 import sys; sys.stdin = open('input_data/3055.txt')
-from pprint import pprint
 from collections import deque
 
 dx = [1, -1, 0, 0]
