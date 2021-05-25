@@ -1,34 +1,24 @@
 import sys; sys.stdin = open('input_data/10835.txt')
-from collections import deque
+from pprint import pprint
+
 
 N = int(input())
-result = 0
+check = [[0] * (N+1) for _ in range(N+1)]
 
-left = deque(map(int, input().split()))
-right = deque(map(int, input().split()))
+left_list = list(map(int, input().split()))
+right_list = list(map(int, input().split()))
 
-while left:
-    right_check = True
-    left_check = False
-    now_left = left.pop()
+if max(left_list) > max(right_list):
+    print(sum(right_list))
+    exit()
 
-    while right_check:
-        now_right = right.pop()
-        if not right : right_check = False
-        if now_left > now_right:
-            result += now_right
+for left in range(N-1, -1, -1):
+    for right in range(N-1, -1, -1):
+        if left_list[left] > right_list[right]:
+            check[left][right] = max(check[left][right+1] + right_list[right], check[left+1][right+1], check[left+1][right])
         else:
-            right_check = False
-            if left: left_check = True
-
-    while left_check:
-        now_left = left.pop()
-        if not left: left_check = False
-        if now_left > now_right:
-            result += now_right
-        else:
-            right_check = False
-            if left: left_check = True
+            check[left][right] = max(check[left+1][right+1], check[left+1][right])
+print(check[0][0])
 
 
 
