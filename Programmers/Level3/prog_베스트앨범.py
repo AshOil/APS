@@ -16,10 +16,10 @@ for i in music_list:
     music_list[i] = sorted(music_list[i], key=(lambda x: (-x[0], x[1])))
 
 sorted_sum = sorted(music_sum.items(), key=lambda x: x[1], reverse=True)
+print(sorted_sum)
 
 for genre in sorted_sum:
     result.append(music_list[genre[0]][0][1])
     if len(music_list[genre[0]]) >=2:
-        print()
         result.append(music_list[genre[0]][1][1])
 print(result)

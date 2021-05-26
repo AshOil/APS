@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d3e7a3fe-0f13-4174-91af-8e1f721cd27f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_13302_리조트.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_13302_리조트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_10835_카드게임.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_10835_카드게임.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/Level2/prog_조이스틱.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/Level2/prog_조이스틱.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/Level2/prog_큰수만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/Level2/prog_큰수만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WELCOME.py" beforeDir="false" afterPath="$PROJECT_DIR$/WELCOME.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,20 +16,20 @@
     <session id="-956973627">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="8" />
-          <entry key="project.open.time.4" value="15" />
+          <entry key="project.open.time.4" value="16" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.opened" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="1" />
-          <entry key="py" value="160" />
+          <entry key="py" value="177" />
           <entry key="txt" value="59" />
         </counts>
       </usages-collector>
@@ -39,20 +37,20 @@
         <counts>
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="59" />
-          <entry key="Python" value="160" />
+          <entry key="Python" value="177" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="25719" />
+          <entry key="py" value="28332" />
           <entry key="txt" value="368" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="371" />
-          <entry key="Python" value="25719" />
+          <entry key="Python" value="28332" />
         </counts>
       </usages-collector>
     </session>
@@ -60,22 +58,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_여행경로.py">
+        <entry file="file://$PROJECT_DIR$/Programmers/Level2/prog_메뉴리뉴얼.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-              <folding>
-                <marker date="1621951423532" expanded="true" signature="315:464" ph="..." />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda3/Lib/copy.py">
+        <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="137" selection-start-line="137" selection-end-line="137" />
+            <state relative-caret-position="418">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -95,14 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Baekjoon/Bronze/Bronze1/boj_1459_걷기.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold3/boj_10800_컬러볼.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold2/boj_1202_보석도둑.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/input_data/9019.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_9019_DSLR.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_3055_탈출.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_3055_탈출_BFS.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/input_data/3055.txt" />
         <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold4/input_data/2206.txt" />
         <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_2206_벽부수고이동하기_2트.py" />
         <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_3055_탈출_BFS2.py" />
@@ -141,18 +128,26 @@
         <option value="$PROJECT_DIR$/Programmers/Level3/prog_등굣길.py" />
         <option value="$PROJECT_DIR$/Programmers/Level4/prog_도둑질.py" />
         <option value="$PROJECT_DIR$/Programmers/Level2/prog_위장.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py" />
         <option value="$PROJECT_DIR$/Programmers/Level2/prog_카펫.py" />
         <option value="$PROJECT_DIR$/Programmers/Level3/prog_디스크컨트롤러.py" />
         <option value="$PROJECT_DIR$/Programmers/Level3/prog_네트워크.py" />
         <option value="$PROJECT_DIR$/Programmers/Level3/prog_여행경로.py" />
+        <option value="$PROJECT_DIR$/Programmers/Level2/prog_멀쩡한사각형.py" />
+        <option value="$PROJECT_DIR$/Programmers/Level2/prog_오픈채팅방.py" />
+        <option value="$PROJECT_DIR$/WELCOME.py" />
+        <option value="$PROJECT_DIR$/Programmers/Level2/prog_문자열압축.py" />
+        <option value="$PROJECT_DIR$/Programmers/Level2/prog_수식최대화.py" />
+        <option value="$PROJECT_DIR$/Programmers/Level2/prog_뉴스클러스터링.py" />
+        <option value="$PROJECT_DIR$/Programmers/Level2/prog_튜플.py" />
+        <option value="$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py" />
+        <option value="$PROJECT_DIR$/Programmers/Level2/prog_메뉴리뉴얼.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="700" />
-    <option name="y" value="16" />
-    <option name="width" value="1211" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="674" />
+    <option name="y" value="81" />
+    <option name="width" value="1173" />
     <option name="height" value="1015" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -163,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,13 +175,18 @@
               <item name="APS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APS" type="462c0819:PsiDirectoryNode" />
               <item name="Programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Level2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APS" type="462c0819:PsiDirectoryNode" />
+              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
               <item name="Level3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.prog_여행경로">
+  <component name="RunManager" selected="Python.prog_메뉴리뉴얼">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,7 +241,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prog_네트워크" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="prog_메뉴리뉴얼" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level2/prog_메뉴리뉴얼.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prog_베스트앨범" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,7 +274,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level3/prog_네트워크.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prog_수식최대화" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level2/prog_수식최대화.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prog_뉴스클러스터링" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level2/prog_뉴스클러스터링.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prog_튜플" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level2/prog_튜플.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,7 +409,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prog_베스트앨범" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="prog_오픈채팅방" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -332,11 +417,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Level3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Level2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level2/prog_오픈채팅방.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -388,19 +473,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.prog_수식최대화" />
+      <item itemvalue="Python.prog_뉴스클러스터링" />
+      <item itemvalue="Python.prog_튜플" />
+      <item itemvalue="Python.prog_메뉴리뉴얼" />
       <item itemvalue="Python.prog_베스트앨범" />
-      <item itemvalue="Python.prog_디스크컨트롤러" />
-      <item itemvalue="Python.prog_카펫" />
-      <item itemvalue="Python.prog_네트워크" />
-      <item itemvalue="Python.prog_여행경로" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prog_여행경로" />
-        <item itemvalue="Python.prog_네트워크" />
-        <item itemvalue="Python.prog_카펫" />
-        <item itemvalue="Python.prog_디스크컨트롤러" />
+        <item itemvalue="Python.prog_메뉴리뉴얼" />
         <item itemvalue="Python.prog_베스트앨범" />
+        <item itemvalue="Python.prog_튜플" />
+        <item itemvalue="Python.prog_뉴스클러스터링" />
+        <item itemvalue="Python.prog_수식최대화" />
       </list>
     </recent_temporary>
   </component>
@@ -427,16 +512,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="700" y="16" width="1211" height="1015" extended-state="0" />
+    <frame x="757" y="16" width="1154" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22165388" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24462366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3409091" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40568182" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3556818" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38653636" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.27960527" />
@@ -581,21 +666,39 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Programmers/Level3/prog_여행경로.py</url>
-          <line>31</line>
+          <line>33</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programmers/Level2/prog_문자열압축.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programmers/Level2/prog_수식최대화.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programmers/Level2/prog_뉴스클러스터링.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="routes" language="Python" />
-        <watch expression="Ground" language="Python" />
-        <watch expression="translate" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>s[now+char_length:now+2*char_length]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s[now+1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>translate</expression-string>
         <language-id>Python</language-id>
@@ -636,57 +739,9 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>check</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_2667_단지번호붙이기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold4/input_data/2206.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_3055_탈출_BFS2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_3055_탈출_BFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Bronze/Bronze3/boj_14720_우유축제.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Bronze/Bronze3/input_data/14720.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/10835.txt.py" />
     <entry file="file://$PROJECT_DIR$/Baekjoon/Bronze/Bronze1/boj_2748_피보나치수2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -856,13 +911,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_단속카메라.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Baekjoon/Bronze/Bronze2/boj_2309_일곱난장이.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -884,24 +932,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WELCOME.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_N으로 표현.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="9" selection-start-line="9" selection-end-line="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_등굣길.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -933,10 +967,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_섬연결하기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level2/prog_멀쩡한사각형.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level2/prog_오픈채팅방.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WELCOME.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level2/prog_문자열압축.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/anaconda3/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="307" column="7" lean-forward="true" selection-start-line="307" selection-start-column="7" selection-end-line="307" selection-end-column="7" />
+        <state relative-caret-position="157">
+          <caret line="267" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/Lib/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level2/prog_수식최대화.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="28" selection-end-column="19" />
+          <folding>
+            <marker date="1622010312666" expanded="true" signature="293:402" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level2/prog_뉴스클러스터링.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_등굣길.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_단속카메라.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -944,16 +1051,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <marker date="1621944992859" expanded="true" signature="106:206" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -967,27 +1064,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_섬연결하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/Lib/copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="137" selection-start-line="137" selection-end-line="137" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_여행경로.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <marker date="1621951423532" expanded="true" signature="315:464" ph="..." />
-          </folding>
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level2/prog_튜플.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level2/prog_메뉴리뉴얼.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
