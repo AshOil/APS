@@ -5,7 +5,7 @@ def get_distance(place_a, place_b):
         return True
     else:
         return False
-    
+
 def DFS(place):
     global result
     if result == "happy": return
@@ -26,7 +26,7 @@ for t in range(int(input())):
     home = list(map(int, input().split()))
     stores = [list(map(int, input().split())) for _ in range(num_store)]
     destination = list(map(int, input().split()))
-    visit = [0]* num_store
+    visit = [0] * num_store
     result = "sad"
     for idx, store in enumerate(stores):
         store.insert(0, idx)
