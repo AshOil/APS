@@ -3,79 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d3e7a3fe-0f13-4174-91af-8e1f721cd27f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_9205_맥주마시면서걸어가기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_9205_맥주마시면서걸어가기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/9205.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/9205.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-956973627">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="33" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="9" />
-          <entry key="project.open.time.4" value="17" />
-          <entry key="project.open.time.5" value="5" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="34" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="js" value="1" />
-          <entry key="py" value="248" />
-          <entry key="txt" value="68" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JavaScript" value="1" />
-          <entry key="PLAIN_TEXT" value="68" />
-          <entry key="Python" value="248" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="5" />
-          <entry key="py" value="36012" />
-          <entry key="txt" value="436" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="441" />
-          <entry key="Python" value="36012" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_9205_맥주마시면서걸어가기.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/9205.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="2310" column="7" lean-forward="true" selection-start-line="2310" selection-start-column="7" selection-end-line="2310" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,140 +20,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver2/input_data/11722.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_11722_가장긴감소하는부분수열.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/15486.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_15486_퇴사2.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_13302_리조트.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/10835.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_10835_카드게임.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_큰수만들기.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_조이스틱.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_조이스틱_완전탐색.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_N으로 표현.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_정수삼각형.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_등굣길.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level4/prog_도둑질.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_위장.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_카펫.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_디스크컨트롤러.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_네트워크.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_멀쩡한사각형.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_오픈채팅방.py" />
-        <option value="$PROJECT_DIR$/WELCOME.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_문자열압축.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_수식최대화.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_뉴스클러스터링.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_튜플.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_베스트앨범.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_메뉴리뉴얼.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level1/prog_체육복.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/prog_예상대진표.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_섬연결하기.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_단속카메라.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_여행경로.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level3/prog_단어변환.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_2583_영역구하기_2xm.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/2583.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_2583_영역구하기_2트.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/1389.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1389_케빈베이컨의6단계법칙_2트.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/10451.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_10451_순열사이클.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/input_data/11559.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_11559_PuyoPuyo.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_2573_빙산.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold4/input_data/2573.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_2234_성곽.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_14503_로봇청소기.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/input_data/14503.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1148_단어만들기.py" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/9205.txt" />
-        <option value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_9205_맥주마시면서걸어가기.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="700" />
-    <option name="y" value="16" />
-    <option name="width" value="1211" />
-    <option name="height" value="1015" />
-  </component>
+  <component name="ProjectId" id="1tHPaHP7jVGKJfDuR45HBcG2YNI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APS" type="462c0819:PsiDirectoryNode" />
-              <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APS" type="462c0819:PsiDirectoryNode" />
-              <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="Gold" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APS" type="462c0819:PsiDirectoryNode" />
-              <item name="Baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="Gold" type="462c0819:PsiDirectoryNode" />
-              <item name="Gold5" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodingTest" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Baekjoon/Silver/Silver1" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\deckl\Desktop\APS\Baekjoon\Silver\Silver1" />
+      <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Gold\Gold5" />
+      <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Silver\Silver2" />
+      <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Gold\Gold2\input_data" />
+      <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Gold\Gold2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Silver\Silver3" />
       <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Silver\Silver2" />
       <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Gold" />
       <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Bronze\Bronze3" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Gold\Gold5" />
-      <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Silver\Silver2" />
-      <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Gold\Gold2\input_data" />
-      <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Gold\Gold2" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.boj_9205_맥주마시면서걸어가기">
+  <component name="RunManager" selected="Python.practice">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj_11559_PuyoPuyo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="boj_12886_돌그룹" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_11559_PuyoPuyo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_12886_돌그룹.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,70 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj_14503_로봇청소기" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/Gold/Gold5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_14503_로봇청소기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boj_2234_성곽" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/Gold/Gold4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_2234_성곽.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boj_2573_빙산" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/Gold/Gold4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_2573_빙산.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boj_9205_맥주마시면서걸어가기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="boj_16928_뱀과사다리게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_9205_맥주마시면서걸어가기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_16928_뱀과사다리게임.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prog_디스크컨트롤러" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="boj_16948_데스나이트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -355,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Level3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/Silver/Silver1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level3/prog_디스크컨트롤러.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_16948_데스나이트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -368,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prog_카펫" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="boj_16948_데스나이트2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -376,11 +141,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Level2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Baekjoon/Silver/Silver1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level2/prog_카펫.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_16948_데스나이트2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -537,22 +323,24 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.boj_11559_PuyoPuyo" />
-      <item itemvalue="Python.boj_2573_빙산" />
-      <item itemvalue="Python.boj_2234_성곽" />
-      <item itemvalue="Python.boj_14503_로봇청소기" />
-      <item itemvalue="Python.boj_9205_맥주마시면서걸어가기" />
+      <item itemvalue="Python.boj_12886_돌그룹" />
+      <item itemvalue="Python.boj_16928_뱀과사다리게임" />
+      <item itemvalue="Python.boj_16948_데스나이트2" />
+      <item itemvalue="Python.boj_16948_데스나이트" />
+      <item itemvalue="Python.practice" />
+      <item itemvalue="Python.prog_오픈채팅방" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.boj_9205_맥주마시면서걸어가기" />
-        <item itemvalue="Python.boj_14503_로봇청소기" />
-        <item itemvalue="Python.boj_2234_성곽" />
-        <item itemvalue="Python.boj_2573_빙산" />
-        <item itemvalue="Python.boj_11559_PuyoPuyo" />
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.boj_12886_돌그룹" />
+        <item itemvalue="Python.boj_16948_데스나이트" />
+        <item itemvalue="Python.boj_16948_데스나이트2" />
+        <item itemvalue="Python.boj_16928_뱀과사다리게임" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -583,54 +371,50 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="700" y="16" width="1211" height="1015" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2634271" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34318182" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.27960527" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24124256" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3072747" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40716612" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.27960527" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="0527 APS" />
     <option name="LAST_COMMIT_MESSAGE" value="0527 APS" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1283" height="334" key="GridCell.Tab.0.bottom" timestamp="1622535541220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1283" height="334" key="GridCell.Tab.0.bottom/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622535541220" />
+    <state width="1283" height="334" key="GridCell.Tab.0.center" timestamp="1622535541220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1283" height="334" key="GridCell.Tab.0.center/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622535541220" />
+    <state width="1283" height="334" key="GridCell.Tab.0.left" timestamp="1622535541220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1283" height="334" key="GridCell.Tab.0.left/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622535541220" />
+    <state width="1283" height="334" key="GridCell.Tab.0.right" timestamp="1622535541220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1283" height="334" key="GridCell.Tab.0.right/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622535541220" />
+    <state width="1324" height="334" key="GridCell.Tab.1.bottom" timestamp="1622509422684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="334" key="GridCell.Tab.1.bottom/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622509422684" />
+    <state width="1324" height="334" key="GridCell.Tab.1.center" timestamp="1622509422684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="334" key="GridCell.Tab.1.center/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622509422684" />
+    <state width="1324" height="334" key="GridCell.Tab.1.left" timestamp="1622509422683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="334" key="GridCell.Tab.1.left/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622509422683" />
+    <state width="1324" height="334" key="GridCell.Tab.1.right" timestamp="1622509422684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1324" height="334" key="GridCell.Tab.1.right/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622509422684" />
+    <state x="893" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1622496995122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="893" y="238" width="672" height="678" key="search.everywhere.popup/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622496995122" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -722,7 +506,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Programmers/Level2/prog_큰수만들기.py</url>
-          <line>4</line>
+          <line>3</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -800,257 +584,27 @@
           <line>58</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practice.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_16928_뱀과사다리게임.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_16948_데스나이트.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_12886_돌그룹.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="result" language="Python" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>result</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Ground</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s[now+char_length:now+2*char_length]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s[now+1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>translate</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>routes</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>move_min</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>days</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>fast</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_2141_우체국.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_2206_벽부수고이동하기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_2206_벽부수고이동하기_2트.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_2234_성곽.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold4/boj_3980_선발명단.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_1759_암호만들기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_2589_보물섬.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_2636_치즈.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_2660_회장뽑기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_3055_탈출_BFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_10026_적록색약.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_14722_우유도시.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_13302_리조트.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Gold/Gold5/boj_13023_ABCDE.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1011_Fly me to the Alpha Centauri.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1068_트리.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1148_단어만들기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1389_케빈베이컨의6단계법칙_2트.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1389_케빈베이컨의 6단계법칙.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1743_음식물피하기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1697_숨바꼭질.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1946_신입사원.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_1991_트리순회.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_2036_수열의점수.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_2156_포도주시식.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_2178_미로탐색.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_2468_시은.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_2468_안전영역.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_2583_영역구하기_2트.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_7576_토마토.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_7569_토마토.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_10451_순열사이클.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="51" />
-          <folding>
-            <marker date="1622129287441" expanded="true" signature="112:300" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_10835_카드게임.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_15486_퇴사2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_16953_AtoB.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_17086_아기상어2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/1713_후보추천하기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_1012_유기농배추.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_1260_DFS와 BFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_1325_효율적인해킹.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_1325_효율적인해킹_DFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_1541_잃어버린괄호.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_1911_흙길보수하기.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_1931_회의실배정.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_2210_숫자판점프.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_2644_촌수계산.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_3187_양치기꿍.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver2/boj_6603_로또.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WELCOME.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/input_data/9205.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="2310" column="7" lean-forward="true" selection-start-line="2310" selection-start-column="7" selection-end-line="2310" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/Silver/Silver1/boj_9205_맥주마시면서걸어가기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

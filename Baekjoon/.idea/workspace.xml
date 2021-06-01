@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47507b4d-b361-4fab-94df-4170948f75ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gJuJzgDSrMxuAhxOpy9iYfcPZW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\deckl\Desktop\APS\Baekjoon\Bronze1\input_data" />
+      <recent name="C:\Users\deckl\Desktop\APS\Baekjoon\Bronze1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.boj_2775_부녀회장이될테야">
+    <configuration name="boj_1193_분수찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bronze2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bronze2/boj_1193_분수찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boj_1546_평균" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bronze1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bronze1/boj_1546_평균.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boj_1934_최소공배수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Silver5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Silver5/boj_1934_최소공배수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boj_2495_연속구간" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bronze2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bronze2/boj_2495_연속구간.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boj_2775_부녀회장이될테야" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bronze2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bronze2/boj_2775_부녀회장이될테야.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.boj_2775_부녀회장이될테야" />
+        <item itemvalue="Python.boj_1934_최소공배수" />
+        <item itemvalue="Python.boj_1546_평균" />
+        <item itemvalue="Python.boj_2495_연속구간" />
+        <item itemvalue="Python.boj_1193_분수찾기" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47507b4d-b361-4fab-94df-4170948f75ba" name="Default Changelist" comment="" />
+      <created>1597844950501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597844950501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1063" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598105074458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1063" y="319" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598105074458" />
+    <state width="985" height="342" key="GridCell.Tab.0.bottom" timestamp="1598111873035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="985" height="342" key="GridCell.Tab.0.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598111873035" />
+    <state width="985" height="342" key="GridCell.Tab.0.center" timestamp="1598111873034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="985" height="342" key="GridCell.Tab.0.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598111873034" />
+    <state width="985" height="342" key="GridCell.Tab.0.left" timestamp="1598111873034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="985" height="342" key="GridCell.Tab.0.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598111873034" />
+    <state width="985" height="342" key="GridCell.Tab.0.right" timestamp="1598111873035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="985" height="342" key="GridCell.Tab.0.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598111873035" />
+    <state width="985" height="342" key="GridCell.Tab.1.bottom" timestamp="1598111873035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="985" height="342" key="GridCell.Tab.1.bottom/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598111873035" />
+    <state width="985" height="342" key="GridCell.Tab.1.center" timestamp="1598111873035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="985" height="342" key="GridCell.Tab.1.center/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598111873035" />
+    <state width="985" height="342" key="GridCell.Tab.1.left" timestamp="1598111873035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="985" height="342" key="GridCell.Tab.1.left/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598111873035" />
+    <state width="985" height="342" key="GridCell.Tab.1.right" timestamp="1598111873035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="985" height="342" key="GridCell.Tab.1.right/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1598111873035" />
+    <state x="1102" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1597846237844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1102" y="228" width="672" height="678" key="search.everywhere.popup/-1920.-113.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1597846237844" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Bronze2/boj_1193_분수찾기.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Silver5/boj_1934_최소공배수.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
