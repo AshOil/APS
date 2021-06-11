@@ -170,9 +170,23 @@ def count_sort(A, k):
     for i in range(len(A)):
         A[i] = B[i]
 
+MAX_NUM = 1000 #입력될 수 있는 숫자의 최대 크기
+x = [5, 7, 4, 2, 6, 8, 1, 3, 3, 4, 5, 2, 1, 4, 8, 7]
+N = len(x)
+temp =[0]*(MAX_NUM+1) # 각 요소의 갯수를 세어준다.
+Modifide_temp =[0]*(MAX_NUM+1) # 누적합 항목
+for i in range(0, N): temp[x[i]] += 1 # 숫자 세기
+Modifide_temp[0] = temp[0] # 누적합 구하기
+for i in range(1, MAX_NUM+1):
+    Modifide_temp[i] = Modifide_temp[i-1]+temp[i]
+#B는 정렬된 결과를 저장하는 배열
+B = [0]*(N+1)
+for i in range(N-1, -1, -1):
+    B[Modifide_temp[x[i]]] = x[i]
+    print(B)
+    Modifide_temp[x[i]] -= 1 # 해당 칸에 넣었으니 한 칸 씩 당기기
 
-x = [5, 7, 4, 2, 6, 8, 1, 3]
-print(x)
-radix_sort(x)
-print(x)
+
+
+
 
