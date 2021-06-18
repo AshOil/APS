@@ -21,7 +21,7 @@ for x in range(people):
         for j in range(people):
             if not visit[j] and Ground[i][j]:
                 Q.append(j)
-                visit[j] = visit[i] +1
+                visit[j] = visit[i] + 1
     if mini > sum(visit):
         mini = sum(visit)
         result = x
