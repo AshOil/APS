@@ -47,7 +47,7 @@
       <recent name="C:\Users\multicampus\Desktop\APS\Baekjoon\Bronze\Bronze3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.prog_N_queen">
+  <component name="RunManager" selected="Python.prog_프렌즈 4블록">
     <configuration name="2805_농작물 수확하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,27 +90,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hash.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,6 +103,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prog_프렌즈 4블록" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\multicampus\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programmers/Level2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programmers/Level2/prog_프렌즈 4블록.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -513,17 +513,17 @@
     <list>
       <item itemvalue="Python.2805_농작물 수확하기" />
       <item itemvalue="Python.2806.N-Queen" />
-      <item itemvalue="Python.Hash" />
+      <item itemvalue="Python.prog_프렌즈 4블록" />
       <item itemvalue="Python.prog_N_queen" />
       <item itemvalue="Python.prog_줄서는방법" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.prog_프렌즈 4블록" />
         <item itemvalue="Python.prog_N_queen" />
         <item itemvalue="Python.2806.N-Queen" />
         <item itemvalue="Python.2805_농작물 수확하기" />
         <item itemvalue="Python.prog_줄서는방법" />
-        <item itemvalue="Python.Hash" />
       </list>
     </recent_temporary>
   </component>
@@ -566,46 +566,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="0527 APS" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1414" height="346" key="GridCell.Tab.0.bottom" timestamp="1624212999678">
+    <state width="1247" height="346" key="GridCell.Tab.0.bottom" timestamp="1624527193856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="939" height="334" key="GridCell.Tab.0.bottom/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1623043557939" />
-    <state width="1414" height="346" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624212999678" />
-    <state width="1414" height="346" key="GridCell.Tab.0.center" timestamp="1624212999678">
+    <state width="1247" height="346" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624527193856" />
+    <state width="1247" height="346" key="GridCell.Tab.0.center" timestamp="1624527193856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="939" height="334" key="GridCell.Tab.0.center/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1623043557939" />
-    <state width="1414" height="346" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624212999678" />
-    <state width="1414" height="346" key="GridCell.Tab.0.left" timestamp="1624212999678">
+    <state width="1247" height="346" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624527193856" />
+    <state width="1247" height="346" key="GridCell.Tab.0.left" timestamp="1624527193856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="939" height="334" key="GridCell.Tab.0.left/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1623043557939" />
-    <state width="1414" height="346" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624212999678" />
-    <state width="1414" height="346" key="GridCell.Tab.0.right" timestamp="1624212999678">
+    <state width="1247" height="346" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624527193856" />
+    <state width="1247" height="346" key="GridCell.Tab.0.right" timestamp="1624527193856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="939" height="334" key="GridCell.Tab.0.right/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1623043557939" />
-    <state width="1414" height="346" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624212999678" />
-    <state width="1414" height="333" key="GridCell.Tab.1.bottom" timestamp="1624212999676">
+    <state width="1247" height="346" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624527193856" />
+    <state width="1247" height="333" key="GridCell.Tab.1.bottom" timestamp="1624527193851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1324" height="334" key="GridCell.Tab.1.bottom/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622991718594" />
-    <state width="1414" height="333" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624212999676" />
-    <state width="1414" height="333" key="GridCell.Tab.1.center" timestamp="1624212999676">
+    <state width="1247" height="333" key="GridCell.Tab.1.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624527193851" />
+    <state width="1247" height="333" key="GridCell.Tab.1.center" timestamp="1624527193851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1324" height="334" key="GridCell.Tab.1.center/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622991718594" />
-    <state width="1414" height="333" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624212999676" />
-    <state width="1414" height="333" key="GridCell.Tab.1.left" timestamp="1624212999676">
+    <state width="1247" height="333" key="GridCell.Tab.1.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624527193851" />
+    <state width="1247" height="333" key="GridCell.Tab.1.left" timestamp="1624527193851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1324" height="334" key="GridCell.Tab.1.left/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622991718594" />
-    <state width="1414" height="333" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624212999676" />
-    <state width="1414" height="333" key="GridCell.Tab.1.right" timestamp="1624212999676">
+    <state width="1247" height="333" key="GridCell.Tab.1.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624527193851" />
+    <state width="1247" height="333" key="GridCell.Tab.1.right" timestamp="1624527193851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1324" height="334" key="GridCell.Tab.1.right/-1920.1.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1622991718594" />
-    <state width="1414" height="333" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624212999676" />
+    <state width="1247" height="333" key="GridCell.Tab.1.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1624527193851" />
     <state x="893" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1622713392983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -834,12 +834,16 @@
           <line>25</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Programmers/Level2/prog_프렌즈 4블록.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="check" language="Python" />
-        <watch expression="result" language="Python" />
+        <watch expression="Ground[i][y]" language="Python" />
       </configuration>
     </watches-manager>
   </component>
