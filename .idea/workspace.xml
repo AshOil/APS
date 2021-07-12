@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d3e7a3fe-0f13-4174-91af-8e1f721cd27f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programmers/Level2/prog_순위검색.py" beforeDir="false" afterPath="$PROJECT_DIR$/Programmers/Level2/prog_순위검색(시간초과).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -567,6 +566,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="0527 APS" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1144" y="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626079448397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1144" y="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1626079448397" />
     <state width="1247" height="346" key="GridCell.Tab.0.bottom" timestamp="1624527193856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
